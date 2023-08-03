@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aplication.tienda.eureka/aplication.tienda.eureka.iml" filepath="$PROJECT_DIR$/aplication.tienda.eureka/aplication.tienda.eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aplication.tienda.producto.factory/aplication.tienda.producto.factory.iml" filepath="$PROJECT_DIR$/aplication.tienda.producto.factory/aplication.tienda.producto.factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/application/application.iml" filepath="$PROJECT_DIR$/application/application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservicio-producto-factory.iml" filepath="$PROJECT_DIR$/.idea/microservicio-producto-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservicio-tienda.iml" filepath="$PROJECT_DIR$/.idea/microservicio-tienda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-carrito/servicio-carrito.iml" filepath="$PROJECT_DIR$/servicio-carrito/servicio-carrito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-despacho/servicio-despacho.iml" filepath="$PROJECT_DIR$/servicio-despacho/servicio-despacho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-orden/servicio-orden.iml" filepath="$PROJECT_DIR$/servicio-orden/servicio-orden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicio-usuario/servicio-usuario.iml" filepath="$PROJECT_DIR$/servicio-usuario/servicio-usuario.iml" />
+    </modules>
+  </component>
+</project>
